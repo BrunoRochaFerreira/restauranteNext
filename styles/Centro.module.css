@@ -1,0 +1,57 @@
+.centro{
+    width: 60vw;
+    height: 1140px;
+    margin-left: 82px;
+    background-color: rgb(32, 32, 32);
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    border-radius: 28px;
+    margin-top: 32px;
+}
+
+.titulocentro{
+    color: white;
+    text-align: center;
+}
+
+.centroprodutos{
+    
+    width: 90%;
+    height: 1000px;
+    margin-left: 100px;
+    
+}
+
+.estiloimg{
+    width: 240px;
+    border-radius: 10px;
+}
+
+.produto{
+    display: inline-block;
+    vertical-align: top;
+    width: 24%;
+    height: 300px;
+    color: white;
+    margin-left: 80px;
+    align-items: center;
+    margin-top: 41px;
+    
+
+    
+}
+
+.valor{
+    margin-left: 104px;
+}
+
+.btnAdicionar{
+    margin-left: 82px;
+    border-radius: 10px;
+}
+
+
+
+
+

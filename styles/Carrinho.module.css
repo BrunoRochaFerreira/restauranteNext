@@ -1,0 +1,18 @@
+.carrinho{
+    color: white;
+    width: 380px;
+    height: 780px;
+    margin-left: 1500px;
+    margin-top: 32px;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(32, 32, 32);;
+    border-radius: 28px;
+    text-align: center;
+}
+
+.confirmar{
+    margin-top: 10%;
+    border-radius: 10px;
+}

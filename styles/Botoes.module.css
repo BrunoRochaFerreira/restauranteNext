@@ -1,0 +1,22 @@
+.botoes{
+    color: black;
+    position: absolute;
+    top: 100px;
+    left: -10px;
+
+}
+
+.link{
+    color: white;
+}
+
+.botoesepacamento{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.botao1{
+    margin-right: 32px;
+
+}
